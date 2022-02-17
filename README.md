@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Getting started
+- Clone the repository
+```
+git clone https://github.com/manisharpatil/react-phones-shopping-cart.git
+```
+- Install dependencies
+```
+cd react-phones-shopping-cart
+npm install
+```
 ## Available Scripts
 
 In the project directory, you can run:
